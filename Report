@@ -1,0 +1,21 @@
+Introduction/Business Problem 
+
+Mr Sanjay  Pramanik  wants to open an Italian Restaurant in Toronto and seeks for the suggestion about choosing the right neighbourhood.
+Sanjay ’s Friend is working at Executive management Level in Renowned Restorant and completed Hotel Management course having 10 + Years in Hotel Management , so only restaurants with high rating can be his competitors.
+Beacuse of limited budget for consulting services next criterias were chosen:
+1. Number of competitors (Number of Italian restaurants in given neighborhood)
+2. Rating distribution for competitors
+3. Activity (Neighborhood total venues: restaurants, gym/fitness, shops etc...)
+At the end of analysis Mr Antonio should be giver 3 neighborhoods of top priority.
+Data 
+
+To solve the problem we need the data about:
+* Toronto neighborhoods
+* Number of Italian restaurants per neighborhood
+* Total venues per neighborhood
+We will use several main data providers:
+* Forsquare for venues and Italian restaurants per neighborhood
+* Forsquare for ratings of Italian restaurants
+* Wikipedia for data about Toronto boroughs and neighborhoods 
+* For visualization of neighborhoods will be used repo link to github 
+* Predifined set of coordinates of Toront neighborhoods 
